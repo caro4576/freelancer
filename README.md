@@ -5,10 +5,18 @@ trabajo realizado en el curso Desarrollo Web Completo con HTML5, CSS3, JS AJAX P
  Proyecto educativo
 
  Tecnologías utilizadas:
+-Normalize
 - HTML5
 - CSS3
 - Tipografías: 
+   "https://fonts.googleapis.com/css2?family=Krub:wght@400;700&display=swap"
 - Paleta de colores :
+    --blanco: #ffffff;
+    --oscuro: #212121;
+    --primario:#ffc107;
+    --secundario:#0097A7;
+    --gris: #757575; 
+    --gris-claro: #BDBDBD
   
 Contenido:
 1. **index.html**
