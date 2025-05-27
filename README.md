@@ -2,9 +2,8 @@
 proyecto de udemy
 trabajo realizado en el curso Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL de juan pablo de la torre valdez
 
-===========================
  Proyecto educativo
-===========================
+
  Tecnologías utilizadas:
 - HTML5
 - CSS3
